@@ -1,0 +1,6 @@
+# Never commit raw CCMS exports or patient-level files
+*.xlsx
+*.xls
+*.csv
+*.json
+.staticrypt.json
